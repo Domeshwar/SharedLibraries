@@ -1,9 +1,9 @@
 def Capital(country) {
 		if (country == "india") {
-				return "Delhi is the Captital of india"
+				echo "Delhi is the Captital of india"
 			}
 			else
 			{
-				return "Delhi is not the capital of India"
+				echo "Delhi is not the capital of India"
 			} 
 }
