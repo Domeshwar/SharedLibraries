@@ -1,4 +1,4 @@
-def call(Map config) {
+def Capital(country) {
 		if (country == "india") {
 				return "Delhi is the Captital of india"
 			}
